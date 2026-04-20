@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Emplacement de capture Sema</title>
+  <desc id="desc">Visuel temporaire indiquant où insérer une capture d'écran Sema Universe.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E9ECFB" />
+      <stop offset="100%" stop-color="#F6F4F4" />
+    </linearGradient>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4E66EB" />
+      <stop offset="100%" stop-color="#32D04C" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)" />
+  <rect x="80" y="80" width="1440" height="740" rx="28" fill="#FFFFFF" stroke="#D8DEF4" stroke-width="8" />
+  <rect x="80" y="80" width="1440" height="72" rx="28" fill="url(#bar)" />
+  <circle cx="130" cy="116" r="10" fill="#FFFFFF" fill-opacity="0.65" />
+  <circle cx="164" cy="116" r="10" fill="#FFFFFF" fill-opacity="0.65" />
+  <circle cx="198" cy="116" r="10" fill="#FFFFFF" fill-opacity="0.65" />
+  <rect x="150" y="250" width="500" height="32" rx="16" fill="#2B2E31" fill-opacity="0.14" />
+  <rect x="150" y="310" width="720" height="22" rx="11" fill="#2B2E31" fill-opacity="0.1" />
+  <rect x="150" y="348" width="650" height="22" rx="11" fill="#2B2E31" fill-opacity="0.1" />
+  <rect x="150" y="386" width="580" height="22" rx="11" fill="#2B2E31" fill-opacity="0.1" />
+  <rect x="150" y="470" width="360" height="220" rx="22" fill="#E9ECFB" />
+  <rect x="540" y="470" width="360" height="220" rx="22" fill="#FDF0DD" />
+  <rect x="930" y="470" width="520" height="220" rx="22" fill="#EEFDF4" />
+  <text x="800" y="222" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="#4E66EB">
+    Insérer la capture Sema ici
+  </text>
+  <text x="800" y="740" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#2B2E31">
+    Remplacez ce visuel par la capture correspondant à l'étape décrite.
+  </text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="198" height="69" viewBox="0 0 198 69" role="img" aria-labelledby="title desc">
+  <title id="title">Sema Core</title>
+  <desc id="desc">Logo Sema Core compact pour la documentation Sema Universe.</desc>
+  <rect x="0" y="0" width="60" height="43" rx="2" fill="#4E66EB"/>
+  <path d="M60 8C60 3.6 63.6 0 68 0H80C90.5 0 99 8.5 99 19V49L85 37H69C64 37 60 33 60 28V8Z" fill="#C8D0F7"/>
+  <path d="M0 43L18 25H60V43L47 61L34 52L20 69L11 57L0 69V43Z" fill="#4E66EB"/>
+  <circle cx="49" cy="34" r="7" fill="none" stroke="#32D04C" stroke-width="3"/>
+  <circle cx="49" cy="34" r="15" fill="none" stroke="#32D04C" stroke-width="2"/>
+  <circle cx="49" cy="34" r="23" fill="none" stroke="#32D04C" stroke-width="2"/>
+  <path d="M49 18V22M49 46V51M33 34H29M69 34H65M38 23L35 20M60 23L63 20M38 45L35 48M60 45L63 48" stroke="#32D04C" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="35" cy="20" r="3" fill="#C8D0F7" stroke="#32D04C" stroke-width="2"/>
+  <circle cx="63" cy="20" r="3" fill="#C8D0F7" stroke="#32D04C" stroke-width="2"/>
+  <circle cx="29" cy="34" r="3" fill="#C8D0F7" stroke="#32D04C" stroke-width="2"/>
+  <circle cx="69" cy="34" r="3" fill="#C8D0F7" stroke="#32D04C" stroke-width="2"/>
+  <circle cx="49" cy="51" r="3" fill="#C8D0F7" stroke="#32D04C" stroke-width="2"/>
+  <text x="91" y="38" fill="#17245B" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Sema Core</text>
+</svg>
