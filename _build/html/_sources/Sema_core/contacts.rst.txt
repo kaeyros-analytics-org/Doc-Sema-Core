@@ -37,8 +37,6 @@ Colonnes fréquentes :
 - nom ;
 - numéro ;
 - actions.
-.. - statut ;
-.. - date de création ;
 
 Rechercher un contact
 ----------------------

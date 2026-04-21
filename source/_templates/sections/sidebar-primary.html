@@ -1,0 +1,52 @@
+{% block docs_sidebar %}
+{% if theme_navbar_start or theme_navbar_center or theme_navbar_end or theme_primary_sidebar_end or toctree(maxdepth=theme_navigation_depth | int, collapse=theme_collapse_navigation | tobool, includehidden=theme_sidebar_includehidden | tobool, titles_only=True) %}
+  {% if theme_navbar_start %}
+  <div class="sidebar-brand sidebar-primary__section">
+    {% for navbar_item in theme_navbar_start %}
+      <div class="sidebar-brand__item navbar-item">{% include navbar_item %}</div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="sidebar-header-items sidebar-primary__section">
+    {% if theme_navbar_center %}
+      <div class="sidebar-header-items__center">
+        {% for navbar_item in theme_navbar_center %}
+          {% with theme_header_links_before_dropdown=999 %}
+            <div class="navbar-item">{% include navbar_item %}</div>
+          {% endwith %}
+        {% endfor %}
+      </div>
+    {% endif %}
+    {% if theme_navbar_end %}
+      <div class="sidebar-header-items__end">
+        {% for navbar_item in theme_navbar_end %}
+          <div class="navbar-item">{% include navbar_item %}</div>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+
+  <div class="sidebar-primary-items__start sidebar-primary__section">
+    <div class="sidebar-primary-item pst-sidebar-collapse">{% include "sidebar-collapse.html" %}</div>
+    <div class="sidebar-primary-item">
+      <nav class="bd-docs-nav bd-links" aria-label="{{ _('Navigation principale') }}">
+        <div class="bd-toc-item navbar-nav">
+          {{ toctree(
+            maxdepth=theme_navigation_depth | int,
+            collapse=theme_collapse_navigation | tobool,
+            includehidden=theme_sidebar_includehidden | tobool,
+            titles_only=True
+          ) }}
+        </div>
+      </nav>
+    </div>
+  </div>
+
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+    {%- for sidebartemplate in theme_primary_sidebar_end %}
+      <div class="sidebar-primary-item">{%- include sidebartemplate %}</div>
+    {%- endfor %}
+  </div>
+{% endif %}
+{% endblock docs_sidebar %}

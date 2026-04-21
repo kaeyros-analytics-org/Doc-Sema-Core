@@ -105,7 +105,7 @@ Capture à insérer — Confirmation envoi
    Ajoutez ici une capture de l'écran de confirmation.
 
 Étape 5 — Suivre les résultats
------------------------------
+------------------------------
 
 Après l'envoi, consultez les indicateurs disponibles :
 

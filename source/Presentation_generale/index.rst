@@ -6,7 +6,7 @@ Présentation générale de Sema Universe
 L'objectif de **Sema Universe** est de proposer un environnement unique où les équipes peuvent communiquer avec leurs clients, automatiser des parcours, suivre les activités et exploiter les données générées par leurs opérations.
 
 À quoi sert Sema Universe ?
---------------------------
+---------------------------
 
 Sema Universe permet de :
 
@@ -59,18 +59,13 @@ Les droits disponibles peuvent varier selon votre organisation. Les rôles les p
 
 L'administrateur configure l'espace de travail, les accès utilisateurs, les intégrations, les paramètres de compte et les éléments utilisés par les autres équipes.
 Il est responsable de la gestion globale de l'écosystème Sema Universe. Il est le point de contact pour les questions d'accès, de configuration et de support.
- Il peut aussi être responsable de la création de scénarios, flows selon les besoins de son organisation.
-.. 2. Responsable marketing ou relation client
-.. Ce profil crée les campagnes, prépare les messages, suit les conversations et analyse les performances dans Sema Core.
+Il peut aussi être responsable de la création de scénarios et de flow selon les besoins de son organisation.
 
 **2. Opérateur ou agent**
 
 L'agent traite les conversations, répond aux clients lors des interactions.
 Il peut aussi être responsable de la création de scénarios, flows selon les rôles et permissions définis par les administrateurs de son organisation.
 L'agent est le point de contact direct avec les clients, il gère les interactions, répond aux demandes et suit les conversations dans Sema Core.
-
-.. 4. Responsable opérationnel
-.. Ce profil suit les réservations, commandes, présences ou rapports selon les produits activés dans Sema Universe.
 
 Bon à savoir
 ------------

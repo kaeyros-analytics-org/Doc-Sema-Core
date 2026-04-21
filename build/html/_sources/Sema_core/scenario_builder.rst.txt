@@ -122,7 +122,7 @@ Relier deux nœuds
 
 
 Famille de nœuds 1 — Nœuds de base
--------------------------
+----------------------------------
 
 **A.** **Question**
 
@@ -219,7 +219,7 @@ Utilisation :
 
 
 Famille de nœuds 2 — Nœuds avec Options
--------------------
+---------------------------------------
 .. Famille 2 — Options (continued)
 .. These nodes manage user subscriptions to chat channels
 
@@ -300,7 +300,7 @@ Utilisation :
 .. Le nœud **Produit unique** affiche un seul produit. Utilisez-le pour recommander ou confirmer un produit précis.
 
 Famille de nœuds 3 — Nœuds avec Intégrations
-------------------------
+--------------------------------------------
 
 **A.** **Web API**
 
@@ -437,10 +437,6 @@ Utilisation :
 .. figure:: ../_images/media.png
    :alt: Capture à insérer du nœud Média
    :width: 90%
-
-.. Mobile Money
-... ----------------
-.. Ce nœud ajoute une étape de paiement mobile si l'intégration est activée dans votre espace.
 
 **F.** **Flow WhatsApp**
 

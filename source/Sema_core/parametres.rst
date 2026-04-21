@@ -21,7 +21,7 @@ Les paramètres peuvent servir à gérer :
    :width: 90%
 
 Utilisateurs
------------
+------------
 
 Pour ajouter un utilisateur :
 

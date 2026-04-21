@@ -24,7 +24,7 @@ Capture à insérer — Programmes
    Ajoutez ici une capture de la page Programmes, Loyalty Program ou Tombola Program.
 
 Étape 1 — Ouvrir le module programme
-------------------------------
+------------------------------------
 
 **1.** Dans le menu, ouvrez **Loyalty Program**, **Tombola Program** ou **Events** selon le module activé.
 **2.** Consultez la liste des programmes existants.

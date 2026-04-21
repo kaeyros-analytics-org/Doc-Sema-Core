@@ -30,15 +30,14 @@ Vue d'ensemble des modules
      - Créer des parcours structurés, des formulaires ou des flow guidés.
    * - Contacts
      - Créer, importer, exporter, rechercher et qualifier les contacts.
-    
-    .. * - Paramètres
-     .. - Configurer les accès, préférences, intégrations et éléments globaux.
-  .. - Messages en masse
-  .. - Préparer et envoyer des communications groupées.
-  .. - Catalogue
-  .. - Gérer les produits utilisés dans les conversations et catalogues interactifs.
-  .. - Programmes
-  .. - Gérer les fonctionnalités d'engagement comme fidélité, tombola ou événements.
+..   * - Paramètres
+..     - Configurer les accès, préférences, intégrations et éléments globaux.
+..   * - Messages en masse
+..     - Préparer et envoyer des communications groupées.
+..   * - Catalogue
+..     - Gérer les produits utilisés dans les conversations et catalogues interactifs.
+..   * - Programmes
+..     - Gérer les fonctionnalités d'engagement comme fidélité, tombola ou événements.
 
 .. figure:: ../_images/dashboard.png
    :alt: Capture à insérer de la vue d'ensemble des modules Sema Core

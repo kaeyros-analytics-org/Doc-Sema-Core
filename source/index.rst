@@ -1,66 +1,74 @@
-Documentation Sema Universe
-===========================
+Guide utilisateur Sema Universe
+================================
 
-**Guide utilisateur complet de Sema Universe**
+.. container:: doc-lead
 
-**Sema Universe** est l'écosystème qui regroupe les produits Sema utilisés pour gérer la relation client, les automatisations, les commandes, les réservations et le suivi opérationnel.
+   Sema Universe réunit les produits Sema utilisés pour gérer la relation client, les automatisations, les commandes, les réservations et le suivi opérationnel.
 
-La page d'accueil et la présentation générale décrivent **Sema Universe** dans son ensemble. 
-Les chapitres fonctionnels détaillent ensuite **Sema Core**, le produit principal utilisé pour gérer les conversations, les chatbots, les scénarios, les flow, les campagnes, les contacts et les tableaux de bord.
+   Cette documentation sert de point d'entrée principal pour comprendre l'écosystème Sema et approfondir plus particulièrement **Sema Core**, le produit central pour les conversations, les scénarios, les flow, les campagnes et les contacts.
 
+Commencer ici
+-------------
 
-Produits de Sema Universe
-=========================
+- :doc:`Présentation générale <Presentation_generale/index>` pour comprendre l'organisation de Sema Universe.
+- :doc:`Démarrage <Demarrage/index>` pour retrouver rapidement les premiers repères et l'accès à la plateforme.
 
-- **Sema Core** : chatbot, Scenario Builder, Flow Builder, conversations, contacts et tableau de bord.
-- **Sema Booking** : gestion des réservations et des rendez-vous.
-- **Sema Orders** : gestion des commandes et du suivi commercial.
-- **Sema Pointage** : suivi de présence, pointage, sites, employés et rapports de présence.
-- **Paramètres** : configuration, utilisateurs, intégrations et préférences.
+Modules Sema Core
+-----------------
 
-Accès rapide
-============
+- :doc:`Vue d'ensemble des fonctionnalités <Sema_core/index>`
+- :doc:`Tableau de bord <Sema_core/tableau_de_bord>`
+- :doc:`Chatbot <Sema_core/chatbot>`
+- :doc:`Scenario Builder <Sema_core/scenario_builder>`
+- :doc:`Flow Builder <Sema_core/flow_builder>`
+- :doc:`Contacts <Sema_core/contacts>`
 
-- **Plateforme Sema Universe** : https://dashboard.dev.sem-a.com/fr
-- **Site public Sema** : https://www.sem-a.com/fr
-- **Documentation Sema Pointage** : https://docs.pointage.sem-a.com/index.html
+Autres produits de Sema Universe
+--------------------------------
+
+- **Sema Booking** pour la gestion des réservations et des rendez-vous.
+  Ce produit permet de suivre les réservations, les créneaux, les clients et les opérations associées à la gestion des rendez-vous.
+
+- **Sema Orders** pour le suivi des commandes et des opérations commerciales.
+  Il permet de suivre les commandes, les produits, les clients et les opérations associées à la gestion commerciale.
+
+- **Sema Pointage** pour la présence, les sites, les employés et les rapports associés.
+  Il permet de suivre les présences, les employés, les sites et les opérations associées à la gestion du temps et des présences.
+  Ce produit fournit des rapports de présences, d'absences, de gestion des congés et de suivi des horaires, avec la possibilité d'exporter les données pour les traitements RH.
+
+Accès rapides
+-------------
+
+- `Plateforme Sema Universe <https://dashboard.dev.sem-a.com/fr>`_
+- `Site public Sema <https://www.sem-a.com/fr>`_
+- `Documentation Sema Pointage <https://docs.pointage.sem-a.com/index.html>`_
 
 .. figure:: _images/bienvenu.png
-   :alt: Capture à insérer de la page d'accueil Sema Universe
+   :alt: Aperçu de l'accueil Sema Universe
    :width: 90%
 
-
-Table des matières
-==================
-
 .. toctree::
+   :hidden:
    :maxdepth: 2
    :caption: Présentation générale
 
-   Presentation_generale/index.rst
+   Presentation_generale/index
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
    :caption: Premiers pas
 
-   Demarrage/index.rst
+   Demarrage/index
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
    :caption: Fonctionnalités Sema Core
 
-   Sema_core/index.rst
-   Sema_core/tableau_de_bord.rst
-   Sema_core/chatbot.rst
-   Sema_core/scenario_builder.rst
-   Sema_core/flow_builder.rst
-   Sema_core/contacts.rst
-
-   .. Sema_core/parametres.rst
-   .. Sema_core/messages_masse.rst
-   .. Sema_core/catalogue.rst
-   .. Sema_core/programmes.rst
-..    :maxdepth: 2
-..    :caption: Configuration
-..
-..    Guide_configuration/index.rst
+   Sema_core/index
+   Sema_core/tableau_de_bord
+   Sema_core/chatbot
+   Sema_core/scenario_builder
+   Sema_core/flow_builder
+   Sema_core/contacts
