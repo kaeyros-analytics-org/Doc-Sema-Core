@@ -21,11 +21,9 @@
     {% endif %}
     {% if theme_navbar_end or theme_navbar_persistent %}
     <div class="navbar-header-items__end">
-      {% if pagename != root_doc %}
-        <div class="navbar-item navbar-breadcrumbs-container">
-          {% include "components/breadcrumbs.html" %}
-        </div>
-      {% endif %}
+      <div class="navbar-item navbar-breadcrumbs-container">
+        {% include "components/breadcrumbs.html" %}
+      </div>
       {% for navbar_item in theme_navbar_persistent %}
         <div class="navbar-item navbar-persistent--container">
           {% include navbar_item %}
