@@ -33,6 +33,7 @@ Ouvrir la liste des contacts
 **4.** Vérifiez que la liste s'affiche avec les colonnes principales.
 
 Colonnes fréquentes :
+
 - nom ;
 - numéro ;
 - actions.
