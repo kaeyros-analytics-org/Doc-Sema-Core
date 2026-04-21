@@ -11,7 +11,7 @@ La page d'accueil et la présentation générale décrivent **Sema Universe** da
 Produits de Sema Universe
 =========================
 
-- **Sema Core** : chatbot, Scenario Builder, Flow Builder, conversations, et tableau de bord.
+- **Sema Core** : chatbot, Scenario Builder, Flow Builder, conversations, contacts et tableau de bord.
 - **Sema Booking** : gestion des réservations et des rendez-vous.
 - **Sema Orders** : gestion des commandes et du suivi commercial.
 - **Sema Pointage** : suivi de présence, pointage, sites, employés et rapports de présence.
@@ -53,10 +53,10 @@ Table des matières
    Sema_core/chatbot.rst
    Sema_core/scenario_builder.rst
    Sema_core/flow_builder.rst
+   Sema_core/contacts.rst
    .. Sema_core/parametres.rst
    .. Sema_core/messages_masse.rst
    .. Sema_core/catalogue.rst
-   .. Sema_core/contacts.rst
    .. Sema_core/programmes.rst
    
 

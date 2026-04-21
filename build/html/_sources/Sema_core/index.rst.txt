@@ -28,19 +28,17 @@ Vue d'ensemble des modules
      - Construire des parcours conversationnels automatisés avec des nœuds.
    * - Flow Builder
      - Créer des parcours structurés, des formulaires ou des flow guidés.
-   .. * - Paramètres
-     .. - Configurer les accès, préférences, intégrations et éléments globaux.
-
+   * - Contacts
+    - Créer, importer, exporter, rechercher et qualifier les contacts.
     
+    .. * - Paramètres
+     .. - Configurer les accès, préférences, intégrations et éléments globaux.
   .. - Messages en masse
   .. - Préparer et envoyer des communications groupées.
   .. - Catalogue
   .. - Gérer les produits utilisés dans les conversations et catalogues interactifs.
   .. - Programmes
   .. - Gérer les fonctionnalités d'engagement comme fidélité, tombola ou événements.
-  .. - Contacts
-  .. - Créer, importer, exporter, rechercher et qualifier les contacts.
-
 
 .. figure:: ../_images/dashboard.png
    :alt: Capture à insérer de la vue d'ensemble des modules Sema Core
@@ -57,9 +55,9 @@ Parcours recommandé pour un nouvel utilisateur
 
 **4.** Consulter le :doc:`flow_builder` pour les parcours structurés.
 
-.. **5.** Configurer les :doc:`parametres` uniquement si vous avez les droits nécessaires.
+**5.** Vérifier les :doc:`contacts` que vous avez créés.
 
-.. **6.** Vérifier les :doc:`contacts` disponibles.
+.. **6.** Configurer les :doc:`parametres` uniquement si vous avez les droits nécessaires.
 
 .. **7.** Utiliser :doc:`messages_masse` pour les campagnes groupées.
 
