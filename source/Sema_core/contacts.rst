@@ -22,7 +22,7 @@ Le module Contacts permet de :
    :width: 90%
 
 Ouvrir la liste des contacts
---------------------------------------
+-----------------------------
 
 **1.** Connectez-vous à Sema Universe.
 
@@ -33,7 +33,6 @@ Ouvrir la liste des contacts
 **4.** Vérifiez que la liste s'affiche avec les colonnes principales.
 
 Colonnes fréquentes :
-
 - nom ;
 - numéro ;
 - actions.
@@ -57,7 +56,7 @@ Rechercher un contact
    :width: 90%
 
 Ajouter un contact
------------------------------
+-------------------
 
 **1.** Cliquez sur **Ajouter**.
 
@@ -77,7 +76,7 @@ Ajouter un contact
 
 
 Importer des contacts
--------------------------------
+----------------------
 
 L'import permet d'ajouter plusieurs contacts à partir d'un fichier.
 
@@ -117,7 +116,7 @@ Exporter les contacts
    :width: 90%
 
 Modifier un contact
------------------------------
+--------------------
 
 **1.** Cliquez sur l'icon de modification du contact à modifier.
 
@@ -175,4 +174,4 @@ Bon à savoir
 
 .. important::
 
-   Un contact mal formaté peut empêcher l'envoi d'un message ou fausser les résultats d'une campagne. Vérifiez toujours le format des numéros avant un envoi massif.
+   Un contact mal formaté peut empêcher l'envoi d'un message. Vérifiez toujours le format des numéros avant un envoi massif.

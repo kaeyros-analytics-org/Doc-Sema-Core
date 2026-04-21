@@ -54,7 +54,7 @@ Après connexion, vérifiez :
 
 
 Comprendre le menu
---------------------------------
+--------------------
 
 Le menu peut afficher plusieurs modules selon votre profil :
 

@@ -56,14 +56,10 @@ Table des matières
    Sema_core/flow_builder.rst
    Sema_core/contacts.rst
 
-
    .. Sema_core/parametres.rst
    .. Sema_core/messages_masse.rst
    .. Sema_core/catalogue.rst
    .. Sema_core/programmes.rst
-   
-
-.. .. toctree::
 ..    :maxdepth: 2
 ..    :caption: Configuration
 ..
