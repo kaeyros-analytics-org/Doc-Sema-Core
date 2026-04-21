@@ -25,7 +25,7 @@ Le Scenario Builder permet de :
    :alt: Capture à insérer du canevas Scenario Builder
    :width: 90%
 
-Étape 1 — Ouvrir le Scenario Builder
+Ouvrir le Scenario Builder
 --------------------------------------
 
 **1.** Dans le menu, ouvrez **Scenario Builder**.
@@ -41,7 +41,7 @@ Le Scenario Builder permet de :
    :width: 90%
 
 
-Étape 2 — Comprendre le canevas
+Comprendre le canevas
 -------------------------------
 
 Le canevas est l'espace de travail où les nœuds sont placés et reliés.
@@ -60,7 +60,7 @@ Les éléments importants sont :
    :alt: Capture à insérer des zones du canevas Scenario Builder
    :width: 90%
 
-Etape 3 — Créer un scénario 
+Créer un scénario 
 ---------------------------
 **1.** Cliquez sur **Créer un scénario**.
 
@@ -82,7 +82,7 @@ Etape 3 — Créer un scénario
    :alt: Capture à insérer des zones du canevas Scenario Builder
    :width: 90%
 
-Étape 4 — Ajouter un nœud
+Ajouter un nœud
 -------------------------
 
 **1.** Repérez le type de nœud dans le panneau de gauche.
@@ -102,7 +102,7 @@ Etape 3 — Créer un scénario
    :alt: Capture à insérer de l'ajout d'un nœud
    :width: 90%
 
-Étape 5 — Relier deux nœuds
+Relier deux nœuds
 ---------------------------
 
 **1.** Repérez le point de sortie du premier nœud.
@@ -220,7 +220,6 @@ Utilisation :
 
 Famille de nœuds 2 — Nœuds avec Options
 -------------------
-
 .. Famille 2 — Options (continued)
 .. These nodes manage user subscriptions to chat channels
 

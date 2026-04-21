@@ -20,7 +20,7 @@ Le Flow Builder permet de :
 - Tester facilement les parcours avant publication.
 
 
-Étape 1 — Ouvrir Flow Builder
+Ouvrir Flow Builder
 -----------------------------
 
 **1.** Connectez-vous à Sema Core.
@@ -34,7 +34,7 @@ Le Flow Builder permet de :
    :width: 90%
 
 
-Étape 2 — Créer un flow
+Créer un flow
 -----------------------
 
 On peut créer un flow à partir de zéro ou à partir d'un modèle.
@@ -79,7 +79,7 @@ Exemples de noms :
    :alt: Capture à insérer de la création d'un flow à partir d'un modèle
    :width: 90%
 
-Étape 3 — Ajouter les étapes ou écrans
+Ajouter les étapes ou écrans
 --------------------------------------
 
 Un flow est généralement composé de plusieurs écrans ou étapes.
@@ -103,7 +103,7 @@ Pour chaque étape :
    :width: 90%
 
 
-Étape 4 — Configurer les champs
+Configurer les champs
 -------------------------------
 
 Les champs permettent de collecter des informations.
@@ -138,7 +138,7 @@ Pour configurer un champ :
    :width: 90%
 
 
-Étape 5 — Connecter le flow au Scenario Builder
+Connecter le flow au Scenario Builder
 -----------------------------------------------
 
 Un flow peut être lancé depuis un scénario grâce au nœud **Flow WhatsApp**.
@@ -165,7 +165,7 @@ Un flow peut être lancé depuis un scénario grâce au nœud **Flow WhatsApp**.
    :width: 90%
 
 
-Étape 6 — Tester le flow
+Tester le flow
 ------------------------
 
 Avant publication :

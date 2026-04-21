@@ -21,7 +21,7 @@ Le module Contacts permet de :
    :alt: Capture à insérer de la liste des contacts
    :width: 90%
 
-Étape 1 — Ouvrir la liste des contacts
+Ouvrir la liste des contacts
 --------------------------------------
 
 **1.** Connectez-vous à Sema Universe.
@@ -40,7 +40,7 @@ Colonnes fréquentes :
 .. - date de création ;
 - actions.
 
-Étape 2 — Rechercher un contact
+Rechercher un contact
 -------------------------------
 
 **1.** Cliquez dans la barre de recherche.
@@ -56,7 +56,7 @@ Colonnes fréquentes :
    :alt: Capture à insérer de la recherche d'un contact
    :width: 90%
 
-Étape 3 — Ajouter un contact
+Ajouter un contact
 -----------------------------
 
 **1.** Cliquez sur **Ajouter**.
@@ -76,7 +76,7 @@ Colonnes fréquentes :
    :width: 90%
 
 
-Étape 4 — Importer des contacts
+Importer des contacts
 -------------------------------
 
 L'import permet d'ajouter plusieurs contacts à partir d'un fichier.
@@ -99,7 +99,7 @@ L'import permet d'ajouter plusieurs contacts à partir d'un fichier.
    :alt: Capture à insérer de l'import des contacts
    :width: 90%
 
-Étape 5 — Exporter les contacts
+Exporter les contacts
 -------------------------------
 
 **1.** Appliquez les filtres souhaités si nécessaire.
@@ -116,7 +116,7 @@ L'import permet d'ajouter plusieurs contacts à partir d'un fichier.
    :alt: Capture à insérer de l'export des contacts
    :width: 90%
 
-Etape 6 — Modifier un contact
+Modifier un contact
 -----------------------------
 
 **1.** Cliquez sur l'icon de modification du contact à modifier.
@@ -131,7 +131,7 @@ Etape 6 — Modifier un contact
    :alt: Capture à insérer de la modification d'un contact
    :width: 90%
 
-Etape 7 — Supprimer un contact
+Supprimer un contact
 ------------------------------
 
 **1.** Cliquez sur l'icon de suppression du contact à supprimer.
@@ -144,7 +144,7 @@ Etape 7 — Supprimer un contact
    :alt: Capture à insérer de la suppression d'un contact
    :width: 90%
 
-Etape 8 — Supprimer plusieurs contacts
+Supprimer plusieurs contacts
 --------------------------------------
 
 **1.** Sélectionnez les contacts à supprimer.

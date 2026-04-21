@@ -5,7 +5,8 @@ Documentation Sema Universe
 
 **Sema Universe** est l'écosystème qui regroupe les produits Sema utilisés pour gérer la relation client, les automatisations, les commandes, les réservations et le suivi opérationnel.
 
-La page d'accueil et la présentation générale décrivent **Sema Universe** dans son ensemble. Les chapitres fonctionnels détaillent ensuite **Sema Core**, le produit principal utilisé pour gérer les conversations, les chatbots, les scénarios, les flow, les campagnes, les contacts et les tableaux de bord.
+La page d'accueil et la présentation générale décrivent **Sema Universe** dans son ensemble. 
+Les chapitres fonctionnels détaillent ensuite **Sema Core**, le produit principal utilisé pour gérer les conversations, les chatbots, les scénarios, les flow, les campagnes, les contacts et les tableaux de bord.
 
 
 Produits de Sema Universe
@@ -54,6 +55,8 @@ Table des matières
    Sema_core/scenario_builder.rst
    Sema_core/flow_builder.rst
    Sema_core/contacts.rst
+
+
    .. Sema_core/parametres.rst
    .. Sema_core/messages_masse.rst
    .. Sema_core/catalogue.rst

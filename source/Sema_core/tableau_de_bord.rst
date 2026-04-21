@@ -18,7 +18,7 @@ Le tableau de bord sert à :
    :alt: Capture à insérer du tableau de bord principal Sema Core
    :width: 90%
 
-Étape 1 — Ouvrir le tableau de bord
+Ouvrir le tableau de bord
 -----------------------------------
 
 **1.** Connectez-vous à Sema Core.
@@ -30,7 +30,7 @@ Le tableau de bord sert à :
 **4.** Vérifiez la période active affichée dans les filtres.
 
 
-Étape 2 — Lire les indicateurs clés
+Lire les indicateurs clés
 -----------------------------------
 
 Selon votre configuration, le tableau de bord peut afficher :
@@ -62,7 +62,7 @@ Pour lire correctement un indicateur :
    :alt: Capture à insérer des indicateurs clés du dashboard
    :width: 90%
 
-Étape 3 — Utiliser les filtres
+Utiliser les filtres
 -----------------------------
 
 Les filtres permettent d'afficher une partie précise des données.
@@ -88,7 +88,7 @@ Pour appliquer un filtre :
    :width: 90%
 
 
-Étape 4 — Interpréter les graphiques
+Interpréter les graphiques
 ------------------------------------
 
 Les graphiques permettent de visualiser les tendances. Ils peuvent afficher les conversations, les messages et les performances d'engagement.

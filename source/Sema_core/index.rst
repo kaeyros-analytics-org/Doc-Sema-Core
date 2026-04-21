@@ -29,7 +29,7 @@ Vue d'ensemble des modules
    * - Flow Builder
      - Créer des parcours structurés, des formulaires ou des flow guidés.
    * - Contacts
-    - Créer, importer, exporter, rechercher et qualifier les contacts.
+     - Créer, importer, exporter, rechercher et qualifier les contacts.
     
     .. * - Paramètres
      .. - Configurer les accès, préférences, intégrations et éléments globaux.

@@ -1,9 +1,9 @@
 Premiers pas et authentification
 ================================
 
-Cette section explique comment accéder à Sema Universe, se connecter à Sema Core et reconnaître les premiers éléments de l'interface.
+Cette section explique comment accéder à Sema Universe, se connecter à Sema Core et reconnaître les premiers éléments de l'interface. 
 
-Étape 1 — Accéder à la plateforme
+Accéder à la plateforme
 --------------------------------
 
 **1.** Ouvrez votre navigateur.
@@ -18,7 +18,7 @@ Cette section explique comment accéder à Sema Universe, se connecter à Sema C
    :width: 90%
 
 
-Étape 2 — Se connecter
+Se connecter
 --------------------------------
 
 **1.** Cliquez sur **Se connecter** si vous arrivez sur la page publique ou la page d'accueil.
@@ -36,9 +36,7 @@ Cette section explique comment accéder à Sema Universe, se connecter à Sema C
    :alt: Capture à insérer du formulaire de connexion Sema Core
    :width: 90%
 
-   Ajoutez ici une capture du formulaire de connexion.
-
-Étape 3 — Identifier l'espace de travail
+Identifier l'espace de travail
 --------------------------------
 
 Après connexion, vérifiez :
@@ -55,7 +53,7 @@ Après connexion, vérifiez :
    :width: 90%
 
 
-Étape 4 — Comprendre le menu
+Comprendre le menu
 --------------------------------
 
 Le menu peut afficher plusieurs modules selon votre profil :
@@ -64,12 +62,8 @@ Le menu peut afficher plusieurs modules selon votre profil :
 - **Chats** : conversations;
 - **Scenario builder** : création de scénarios ;
 - **Flow builder** : création de flows ;
+- **Contacts** : gestion des contacts ;
 - **Paramètres** : gestion de l'espace de travail.
-
-
-.. figure:: ../_images/menu.png
-   :alt: Capture à insérer du menu complet Sema Core
-   :width: 90%
 
 
 Problèmes fréquents de connexion

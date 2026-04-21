@@ -23,7 +23,7 @@ Le module Chat permet de :
    :width: 90%
 
 
-Étape 1 — Ouvrir les conversations
+Ouvrir les conversations
 ----------------------------------
 
 **1.** Connectez-vous à Sema Core.
@@ -32,7 +32,7 @@ Le module Chat permet de :
 
 **3.** Vérifiez la liste des conversations.
 
-Étape 2 — Lire une conversation
+Lire une conversation
 -------------------------------
 
 **1.** Cliquez sur une conversation dans la liste.
@@ -50,7 +50,7 @@ Le module Chat permet de :
    :alt: Capture à insérer du détail d'une conversation
    :width: 90%
 
-Étape 3 — Répondre manuellement
+Répondre manuellement
 -------------------------------
 
 Si votre rôle l'autorise, vous pouvez reprendre une conversation.
@@ -72,7 +72,7 @@ Si votre rôle l'autorise, vous pouvez reprendre une conversation.
    :alt: Capture à insérer de la réponse manuelle dans une conversation
    :width: 90%
 
-Étape 4 — Consulter les informations du contact ou modifier un contact
+Consulter les informations du contact ou modifier un contact
 ----------------------------------------------------------------------
 
 Dans une conversation, un panneau peut afficher les informations du contact.
@@ -90,7 +90,7 @@ Vérifiez notamment :
    :width: 90%
 
 
-Étape 5 — Comprendre l'automatisation déclenchée
+Comprendre l'automatisation déclenchée
 ------------------------------------------------
 
 Une conversation peut être alimentée par un scénario ou un flow.
