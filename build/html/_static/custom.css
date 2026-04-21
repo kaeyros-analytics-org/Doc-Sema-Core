@@ -358,12 +358,23 @@ footer {
 .wy-side-nav-search > a {
   display: flex;
   align-items: center;
+  gap: 12px;
   min-height: 58px;
   padding: 0;
   margin: 0 0 16px;
   color: #ffffff !important;
   font-size: 0;
   text-decoration: none;
+}
+
+.wy-side-nav-search > a::after {
+  content: "Sema Core";
+  display: block;
+  color: #ffffff;
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 1.05;
+  letter-spacing: 0.02em;
 }
 
 .wy-side-nav-search > a:hover {
@@ -374,8 +385,8 @@ footer {
 .wy-side-nav-search > a img.logo,
 .wy-side-nav-search img.logo {
   display: block !important;
-  width: 182px !important;
-  max-width: 182px !important;
+  width: 56px !important;
+  max-width: 56px !important;
   height: auto !important;
   margin: 0 !important;
   padding: 0 !important;
@@ -589,8 +600,8 @@ footer {
 
   .wy-side-nav-search > a img.logo,
   .wy-side-nav-search img.logo {
-    width: 174px !important;
-    max-width: 174px !important;
+    width: 52px !important;
+    max-width: 52px !important;
   }
 
   .wy-menu-vertical a {
