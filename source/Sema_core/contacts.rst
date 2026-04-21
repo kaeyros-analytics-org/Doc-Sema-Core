@@ -36,12 +36,12 @@ Colonnes fréquentes :
 
 - nom ;
 - numéro ;
+- actions.
 .. - statut ;
 .. - date de création ;
-- actions.
 
 Rechercher un contact
--------------------------------
+----------------------
 
 **1.** Cliquez dans la barre de recherche.
 
