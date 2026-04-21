@@ -19,6 +19,7 @@ html_title = 'Guide utilisateur Sema Universe'
 html_static_path = ['_static']
 html_css_files = ['custom.css']
 html_logo = '_static/sema_core_logo.png'
+html_favicon = '_static/sema_core_logo.png'
 html_show_copyright = True
 html_show_sphinx = False
 html_show_sourcelink = False
