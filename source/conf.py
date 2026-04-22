@@ -23,6 +23,7 @@ html_favicon = '_static/sema_core_logo.png'
 html_show_copyright = True
 html_show_sphinx = False
 html_show_sourcelink = False
+html_permalinks = False
 
 html_theme_options = {
     'logo': {

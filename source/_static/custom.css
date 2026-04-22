@@ -3,8 +3,8 @@ html,
 html:not([data-theme]),
 html[data-theme="light"],
 html[data-theme="dark"] {
-  --pst-font-family-base: "Segoe UI", Tahoma, sans-serif;
-  --pst-font-family-heading: "Segoe UI", Tahoma, sans-serif;
+  --pst-font-family-base: "Articulat CF", "Segoe UI", Tahoma, sans-serif;
+  --pst-font-family-heading: "Articulat CF", "Segoe UI", Tahoma, sans-serif;
   --pst-teal-400: #29ce44;
   --pst-teal-500: #4e66eb;
   --pst-color-primary: #4e66eb;
@@ -30,6 +30,7 @@ html[data-theme="dark"] {
   --pst-color-text-muted: #66758b;
   --pst-color-inline-code: #4e66eb;
   --pst-color-heading: #4e66eb;
+  --pst-color-target: transparent;
   --pst-color-shadow: rgba(78, 102, 235, 0.08);
   --sema-nav-accent: #3dd356;
   --sema-nav-accent-soft: rgba(61, 211, 86, 0.14);
@@ -50,6 +51,14 @@ html[data-theme="dark"] {
 body {
   background: var(--pst-color-on-background);
   color: var(--pst-color-text-base);
+}
+
+.bd-article a.headerlink {
+  display: none !important;
+}
+
+.bd-main .bd-content .bd-article-container .bd-article :target > :is(h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5) {
+  background-color: transparent;
 }
 
 .sema-main-shell {
@@ -143,6 +152,29 @@ body {
   color: #ffffff;
   font-size: 1.45rem;
   line-height: 1.1;
+}
+
+.bd-sidebar-primary.pst-squeeze .sidebar-brand {
+  padding: 0.9rem 0.5rem 0.75rem;
+}
+
+.bd-sidebar-primary.pst-squeeze .sidebar-brand,
+.bd-sidebar-primary.pst-squeeze .sidebar-brand__item,
+.bd-sidebar-primary.pst-squeeze .navbar-brand.logo {
+  width: 100% !important;
+}
+
+.bd-sidebar-primary.pst-squeeze .navbar-brand.logo {
+  gap: 0;
+  justify-content: center;
+}
+
+.bd-sidebar-primary.pst-squeeze .navbar-brand.logo .logo__title {
+  display: none;
+}
+
+.bd-sidebar-primary.pst-squeeze .navbar-brand.logo .logo__image {
+  max-height: 2.5rem;
 }
 
 .navbar-icon-links .nav-link {
